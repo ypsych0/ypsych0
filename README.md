@@ -7,7 +7,6 @@
 
 - 📚 Currently I’m studing at Senac RJ.
 - 🔭 Python
-- 📫 How to reach me:
 
 ##
 

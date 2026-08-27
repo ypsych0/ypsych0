@@ -6,7 +6,7 @@
 ## Hi, I'm Pedro 👋
 
 - 📚 Currently I’m studing at Senac RJ.
-- 🔭 Python
+- 🔭 Python, Java and JavaScript
 
 ##
 

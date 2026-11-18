@@ -30,7 +30,11 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,git,github,vscode,linux,bash" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
